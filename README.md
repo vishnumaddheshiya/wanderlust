@@ -289,7 +289,6 @@ This project is open source and available under the MIT License - see the LICENS
 
 **Vishnu Maddheshiya**
 - GitHub: [@vishnumaddheshiya](https://github.com/vishnumaddheshiya)
-- Email: your.email@example.com
 
 
 ## 🙏 Acknowledgments
